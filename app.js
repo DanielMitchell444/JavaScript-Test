@@ -69,14 +69,30 @@ do all of this below this comment
 si. I want you to create a variable and select the h1 id using
 getElementById below this comment */
 
+/*QUESTION 8 */
 
-/* QUESTION 8*/
+/*In a paragraph, explain what the HTML dom is 
+TYPE ANSWER HERE
+/*
+
+/*Question 9 */
+
+/*Explain what the script tag does in an index.html file
+
+*/
+/*Question 10 */
+/* Explain the importance of JavaScript in web development */
+
+
+
+
+/* QUESTION 11*/
 
 /* You just selected an h1 element, in this question, i want you to change the
 content of the h1 element using .innerHTML below this comment */
 
 
-/*QUESTION 9 */
+/*QUESTION 12 */
 
 /* Inside the index.html file, you will see that there is a p class with the name
 of no. Using getElementByClassName, i want you to create a variable and then select
@@ -84,21 +100,21 @@ the p class using getElementByClassName below this comment
 */
 
 
-/*QUESTION 10 */
+/*QUESTION 13 */
 
 /* Inside the index.html file, you will see that there are 3 buttons with
 the class of goodbye. Using querySelectorAll, i want you to select all 3 buttons
 below this comment
 */
 
-/*QUESTION 11 */
+/*QUESTION 14 */
 
 /*Inside the index.html file, you will see that there is a p id that is
 named yesCool. Using querySelector, i want you to select that id. Type
 your answer below this comment */
 
 
-/*Question 12 */
+/*Question 15 */
 
 /*In the practice exercises, we learned about function parameters or arguments
 in this question, i want you to create a function that passes two values, a and
@@ -108,13 +124,13 @@ After you do that, i want you to call the function and then pass two numbers,
 1 and 2.
 */
 
-/*QUESTION 13(Bonus Question) */
+/*QUESTION 16(Bonus Question) */
 
 /* Once thing we learned about is arrays and how they are useful when storing
 information. Below this comment, i want you to create an array of 3 integers
 you can name the variable whatever you want */
 
-/*Question 14(Bonus Question) */
+/*Question 17(Bonus Question) */
 
 /*Below, you will see an array. In this question, i want you to idientify the
 index of the array that is given */
